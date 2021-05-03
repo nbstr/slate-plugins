@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "slate-plugins-nab",
   "license": "MIT",
   "workspaces": [
     "packages/**"

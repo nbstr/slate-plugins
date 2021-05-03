@@ -7,6 +7,10 @@ report.*
 
 # Dependency directories
 jspm_packages/
+/packages/*/node_modules
+/packages/*/LICENSE
+**/lib
+**/dist
 
 # compiled output
 /dist

@@ -1,0 +1,17 @@
+html {
+  background-color: #252528;
+  color: #e2e2e4;
+  font-family: "Menlo Regular";
+  font-size: 11px;
+  padding: 40px;
+}
+
+.App {
+  text-align: left;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
